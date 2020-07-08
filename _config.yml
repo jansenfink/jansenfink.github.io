@@ -1,11 +1,11 @@
 # Site settings
 author: Jansen Fink
-title: 
+title: Software Engineering Violist
 header-img: img/home-bg.png
 email: jansenfink@charter.net
 copyright_name: Jansen Fink
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey to obtaining a real super power: Coding. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jansenfink
